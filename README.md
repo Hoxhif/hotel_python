@@ -1,0 +1,1 @@
+The idea of this proyect is to re-create the Hotel app I made in Java but using Python.
